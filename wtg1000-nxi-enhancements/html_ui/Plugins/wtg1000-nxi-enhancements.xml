@@ -1,0 +1,6 @@
+<Plugins>
+  <Plugin target="AS1000_MFD">coui://html_ui/WTG1000NxiEnhancements/wtg1000-nxi-enhancements.js</Plugin>
+  <Plugin target="AS1000_PFD">coui://html_ui/WTG1000NxiEnhancements/wtg1000-nxi-enhancements.js</Plugin>
+  <Plugin target="AS1000v2_MFD">coui://html_ui/WTG1000NxiEnhancements/wtg1000-nxi-enhancements.js</Plugin>
+  <Plugin target="AS1000v2_PFD">coui://html_ui/WTG1000NxiEnhancements/wtg1000-nxi-enhancements.js</Plugin>
+</Plugins>
